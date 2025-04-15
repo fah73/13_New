@@ -22,6 +22,7 @@ public abstract class Food {
                 return new Cherry(position);
             default:
                 return null;
+                //test
         }
 
     }

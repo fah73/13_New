@@ -109,4 +109,6 @@ class SnakeSegment {
     public void setNext(SnakeSegment next) {
         this.next = next;
     }
+
+    name = "blah"
 }
